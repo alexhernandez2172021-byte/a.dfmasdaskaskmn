@@ -1,0 +1,1 @@
+Pon aquí las fotos que quieras usar (por ejemplo foto1.jpg, foto2.jpg, foto3.jpg). Después cambia las rutas en index.html.
